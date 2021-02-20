@@ -32,59 +32,59 @@
   translation: 웹 사이트를 정상적으로 이용하실 수 있습니다.
 
 - id: thisIsDown
-  translation: Down
+  translation: 장애 발생
 - id: thisIsDisrupted
-  translation: Disrupted
+  translation: 영향을 받을 수 있음
 - id: thisIsNotice
-  translation: Maintenance
+  translation: 점검 중
 - id: thisIsOk
-  translation: Operational
+  translation: 정상
 
 # "Last checked" + "just now"
 - id: lastChecked
-  translation: Last checked
+  translation: 마지막으로 확인한 시간 - 
 - id: justNow
-  translation: just now
+  translation: 방금 전
 - id: someTimeAgo
-  translation: ago
+  translation: 전
 
 # Example usage: `5` + `years`
 # Final result: 'Last checked 5 years ago'
 # Number goes before string
 # Use short variants until months
 - id: yearsAgo
-  translation: years
+  translation: 년
 - id: monthsAgo
-  translation: months
+  translation: 개월
 - id: daysAgo
-  translation: d
+  translation: 일
 - id: hoursAgo
-  translation: h
+  translation: 시간
 - id: minsAgo
-  translation: min
+  translation: 분
 - id: secondsAgo
-  translation: s
+  translation: 초
 
 - id: autoRefreshNotice
-  translation: We will try to refresh every 5 min
+  translation: 5초마다 새로고침 합니다.
 
 # Incidents
 - id: incidents
-  translation: Incidents
+  translation: 사고
 - id: incidentHistory
-  translation: Incident history
+  translation: 사고 목록
 
 - id: resolved
-  translation: Resolved # if it's less than a min
+  translation: 해결됨 # if it's less than a min
 - id: inUnderAMinute
-  translation: in under a minute # continuing the last string
+  translation: 곧 해결 됨 # continuing the last string
 - id: resolvedAfter
-  translation: Resolved after # + 19 min
+  translation: 해결될 예정 - # + 19 min
 - id: ofDowntime
   translation: of downtime
 
 - id: downtimeOngoing
-  translation: This issue is not resolved yet
+  translation: 아직 이 문제가 해결되지 않았습니다.
 
 
 - id: calmBeforeTheStorm
@@ -109,12 +109,12 @@
 - id: backToTop
   translation: Back to top
 - id: poweredBy
-  translation: Powered by
+  translation: 제공됨 - 
 
 - id: notFound
-  translation: There is nothing here.
+  translation: 아무것도 없습니다.
 - id: notFoundText
-  translation: This could be a problem on our part. Perhaps we moved a certain resource and now it is gone. It is also possible that the resource you are trying to view is empty. But do you also mind to double check the link?
+  translation: 아마 저희가 뭔가 잘못 한 거겠죠..
 
 - id: rss
   translation: Subscribe via RSS
